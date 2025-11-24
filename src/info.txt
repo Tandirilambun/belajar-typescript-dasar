@@ -1,0 +1,9 @@
+Untuk menjalankan unit test secara keseluruhan
+npx jest
+
+Untuk menjalankan unit test secara spesifik
+npx jest {dir/unit test filename}
+
+Untuk compile typescript
+npx tsc
+
